@@ -1,8 +1,4 @@
-[cite_start]Here is the complete, final content for your **README.md** file[cite: 13]. I have integrated your specific name, registration number, LinkedIn, and the Google Form link you just provided.
 
-Copy and paste the entire block below into your GitHub `README.md`:
-
------
 
 # Digital Literacy Portfolio
 
